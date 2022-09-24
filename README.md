@@ -1,0 +1,1 @@
+# simple-example-for-rabbitmq
