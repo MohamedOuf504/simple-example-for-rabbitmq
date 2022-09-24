@@ -6,6 +6,6 @@
 
 # run > npm install to install amqplib
 
-### run > npm run publish
+### run > npm run publish  // you can here pass values like {74}
 
 ### run > npm run consume
