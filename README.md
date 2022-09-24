@@ -4,8 +4,8 @@
 
 ### docker run --name rabbitmq -p 5672:5672 rabbitmq
 
-## run > npm install to install amqplib
+# run > npm install to install amqplib
 
 ### run > npm run publish
 
-### run >> npm run consume
+### run > npm run consume
